@@ -1,0 +1,2 @@
+# MyCode
+Exercises and works
